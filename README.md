@@ -12,6 +12,6 @@ The data was in .mat format which needs to be converted to images in order to im
 #     
 
 
-For further data and to review the code you can see the head of the projects on the below link :
+For further data and to review the code you can see the head of the project's page on the below link :
 
 https://github.com/Alireza-Rahimi-3000/Deep-Learning-Methods-on-EEG-Recordings-to-Predict-Epileptic-Seizures
